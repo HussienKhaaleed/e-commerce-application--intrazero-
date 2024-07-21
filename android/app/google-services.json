@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241817045331",
+    "project_id": "intrazero-b912c",
+    "storage_bucket": "intrazero-b912c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241817045331:android:bade51bae8606b1a9d39a6",
+        "android_client_info": {
+          "package_name": "com.example.intrazero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClvzBGXQMXHsuYCozCqdGYfGAeCiIgymo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
